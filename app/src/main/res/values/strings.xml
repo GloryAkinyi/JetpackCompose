@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ImageUpload</string>
+    <string name="title_activity_pdfextractor">PDFExtractor</string>
+    <string name="title_activity_upload_product">UploadProduct</string>
+    <string name="title_activity_opwn_aiactivity">OpwnAIActivity</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777282983593",
+    "project_id": "imageuploadglory",
+    "storage_bucket": "imageuploadglory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777282983593:android:1d5892530a2ecc0ae8fbb8",
+        "android_client_info": {
+          "package_name": "com.wanyama.imageupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy896GyVP0TlrccyJp0dSMepIYU7aCaHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
